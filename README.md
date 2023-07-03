@@ -23,6 +23,8 @@
 
 Tinder for our furry friends. 
 
+<img src="./tindog.gif"/>
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
