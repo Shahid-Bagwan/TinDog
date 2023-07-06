@@ -19,11 +19,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 TinDog <a name="about-project"></a>
+# 📖 WoofSwipe <a name="about-project"></a>
 
 Tinder for our furry friends. 
 
-<img src="./tindog.gif"/>
+<img src="./WoofSwipe.gif"/>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -75,7 +75,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git https://github.com/Shahid-Bagwan/TinDog.git
+  git https://github.com/Shahid-Bagwan/WoofSwipe.git
 ```
 
 
@@ -115,7 +115,7 @@ Deploy this project on any websever
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Shahid-Bagwan/TinDog/issues).
+Feel free to check the [issues page](https://github.com/Shahid-Bagwan/WoofSwipe/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
